@@ -1,4 +1,4 @@
-module github.com/tree-sitter/go-tree-sitter
+module github.com/JohnMurray/go-tree-sitter
 
 go 1.22
 
