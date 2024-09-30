@@ -14,7 +14,7 @@ import (
 	"unicode/utf16"
 
 	"github.com/stretchr/testify/assert"
-	. "github.com/tree-sitter/go-tree-sitter"
+	. "github.com/JohnMurray/go-tree-sitter"
 	tree_sitter_c "github.com/tree-sitter/tree-sitter-c/bindings/go"
 	tree_sitter_cpp "github.com/tree-sitter/tree-sitter-cpp/bindings/go"
 	tree_sitter_embedded_template "github.com/tree-sitter/tree-sitter-embedded-template/bindings/go"
