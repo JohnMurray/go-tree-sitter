@@ -10,6 +10,8 @@ import "C"
 import (
 	"sync/atomic"
 	"unsafe"
+
+	_ "github.com/JohnMurray/go-tree-sitter/include/tree_sitter"
 )
 
 var (
