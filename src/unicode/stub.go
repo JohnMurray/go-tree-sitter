@@ -1,0 +1,3 @@
+package unicode
+
+func init() {}

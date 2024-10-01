@@ -12,6 +12,9 @@ import (
 	"unsafe"
 
 	_ "github.com/JohnMurray/go-tree-sitter/include/tree_sitter"
+	_ "github.com/JohnMurray/go-tree-sitter/src"
+	_ "github.com/JohnMurray/go-tree-sitter/src/unicode"
+	_ "github.com/JohnMurray/go-tree-sitter/src/wasm"
 )
 
 var (
